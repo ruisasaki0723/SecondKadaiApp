@@ -13,6 +13,7 @@
 		EA41645624441C280016DB94 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA41645424441C280016DB94 /* Main.storyboard */; };
 		EA41645824441C290016DB94 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA41645724441C290016DB94 /* Assets.xcassets */; };
 		EA41645B24441C290016DB94 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA41645924441C290016DB94 /* LaunchScreen.storyboard */; };
+		EA41646324441F1D0016DB94 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA41646224441F1D0016DB94 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		EA41645724441C290016DB94 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EA41645A24441C290016DB94 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EA41645C24441C290016DB94 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EA41646224441F1D0016DB94 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				EA41644E24441C280016DB94 /* AppDelegate.swift */,
 				EA41645024441C280016DB94 /* SceneDelegate.swift */,
 				EA41645224441C280016DB94 /* ViewController.swift */,
+				EA41646224441F1D0016DB94 /* ResultViewController.swift */,
 				EA41645424441C280016DB94 /* Main.storyboard */,
 				EA41645724441C290016DB94 /* Assets.xcassets */,
 				EA41645924441C290016DB94 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				EA41645324441C280016DB94 /* ViewController.swift in Sources */,
 				EA41644F24441C280016DB94 /* AppDelegate.swift in Sources */,
 				EA41645124441C280016DB94 /* SceneDelegate.swift in Sources */,
+				EA41646324441F1D0016DB94 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
